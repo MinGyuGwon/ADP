@@ -1,0 +1,4 @@
+기초통계분석(상관분석, t검정, 분산분석, 교차분석)
+https://www.kaggle.com/c/store-sales-time-series-forecasting/data
+1. train.csv
+2. holidays_events.csv
