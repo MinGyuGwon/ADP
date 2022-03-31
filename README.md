@@ -12,7 +12,7 @@
 - 5주차 - [시계열분석2](https://github.com/MinGyuGwon/ADP/blob/main/03_%EC%8B%9C%EA%B3%84%EC%97%B4%EB%B6%84%EC%84%9D.ipynb)
 
 ### Chapter2. 데이터마이닝
-- 6주차 - [분류분석]()
+- 6주차 - [분류분석](https://github.com/MinGyuGwon/ADP/blob/main/04_%EB%B6%84%EB%A5%98%EB%B6%84%EC%84%9D.ipynb)
 - 7주차 - [앙상블분석]()
 - 8주차 - [인공신경망분석, 군집분석, 연관분석]()
 - 9주차 - [차원축소기법]()
