@@ -7,9 +7,9 @@
 
 ### Chapter1. 통계분석
 - 2주차 - [기초통계분석(상관분석, t검정, 분산분석, 교차분석)](https://github.com/MinGyuGwon/ADP/blob/main/01_%EA%B8%B0%EC%B4%88%ED%86%B5%EA%B3%84%EB%B6%84%EC%84%9D(%EC%83%81%EA%B4%80%EB%B6%84%EC%84%9D%2C_t%EA%B2%80%EC%A0%95%2C_%EB%B6%84%EC%82%B0%EB%B6%84%EC%84%9D%2C_%EA%B5%90%EC%B0%A8%EB%B6%84%EC%84%9D).ipynb) 
-- 3주차 - [회귀분석]()
-- 4주차 - [시계열분석1]()
-- 5주차 - [시계열분석2]()
+- 3주차 - [회귀분석](https://github.com/MinGyuGwon/ADP/blob/main/02_%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D.ipynb)
+- 4주차 - [시계열분석1](https://github.com/MinGyuGwon/ADP/blob/main/03_%EC%8B%9C%EA%B3%84%EC%97%B4%EB%B6%84%EC%84%9D.ipynb)
+- 5주차 - [시계열분석2](https://github.com/MinGyuGwon/ADP/blob/main/03_%EC%8B%9C%EA%B3%84%EC%97%B4%EB%B6%84%EC%84%9D.ipynb)
 
 ### Chapter2. 데이터마이닝
 - 6주차 - [분류분석]()
